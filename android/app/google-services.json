@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "531659029425",
+    "project_id": "taskitly-notifications",
+    "storage_bucket": "taskitly-notifications.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531659029425:android:48651fbe41cf13f6d25b90",
+        "android_client_info": {
+          "package_name": "com.taskitly.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaqw7miNWR7B0h6e7syf0-DJXu6SB3Lbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
